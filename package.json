@@ -1,0 +1,16 @@
+{
+  "name": "mtlg0",
+  "version": "0.0.1",
+  "description": "Playground npm test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmmelo/mtlg0"
+  },
+  "keywords": [],
+  "author": "mmmelo",
+  "license": "MIT"
+}
