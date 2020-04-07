@@ -1,6 +1,6 @@
 {
   "name": "mtlg0",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Playground npm test",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mmmelo/mtlg0"
+    "url": "git+https://github.com/mmmelo/mtlg0.git"
   },
   "keywords": [],
   "author": "mmmelo",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/mmmelo/mtlg0/issues"
+  },
+  "homepage": "https://github.com/mmmelo/mtlg0#readme",
+  "devDependencies": {}
 }
